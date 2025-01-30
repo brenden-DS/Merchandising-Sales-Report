@@ -28,7 +28,7 @@ The dashboard answers the following key questions:
 7. The **18-22 age group** is associated with higher purchasing activity.
 8. The product **BF1548** was the top seller, generating over **$190k** in sales.
 
-I used **Microsoft Power BI** to create this project, and you can view the live dashboard [here](#).
+I used **Microsoft Power BI** to create this project, and you can view the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzU0MWEzNDMtODAzMC00ZWVkLTk2YTUtZGJiZWE0OWJkODk0IiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9).
 
 As always, happy analyzing!
 
